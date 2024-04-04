@@ -1,3 +1,7 @@
+##
+su7 模型：https://sketchfab.com/3d-models/su7-7296a91633d74c6eb113010e2ed75eda  
+文章：https://mp.weixin.qq.com/s/QJi8_fE-Ihpp25K8ExGc5g
+
 # 小米 SU7 网站特效解析 demo
 
 demo 地址：https://su7-replica.netlify.app/
